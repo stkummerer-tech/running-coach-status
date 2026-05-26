@@ -1,14 +1,14 @@
-# Running Status — 2026-05-25
+# Running Status — 2026-05-26
 
 **Race:** Half marathon, 2027-04-15 (46 weeks to go)  
 **Goal pace:** 6.00 min/km (~2:06 finish)
 
 ## Current state
 
-- **Last 7 days:** 17.21 km in 3 run(s)
-- **Last 28 days:** 25.23 km in 5 run(s)
-- **Current easy pace:** 7.27 min/km
-- **Gap to goal pace:** +1.27 min/km
+- **Last 7 days:** 17.08 km in 3 run(s)
+- **Last 28 days:** 29.59 km in 6 run(s)
+- **Current easy pace:** 7.29 min/km
+- **Gap to goal pace:** +1.29 min/km
 
 ## 8-week trend
 
@@ -17,11 +17,13 @@
 | 2026-05-04 | 1 | 3.0 `█░░░░░░░░░░░░░░░░░░░` | 6.48 | 157 |
 | 2026-05-11 | 1 | 5.0 `███░░░░░░░░░░░░░░░░░` | 7.00 | 154 |
 | 2026-05-18 | 3 | 17.2 `███████████░░░░░░░░░` | 7.63 | 146 |
+| 2026-05-25 | 1 | 4.4 `██░░░░░░░░░░░░░░░░░░` | 7.38 | 150 |
 
 ## Recent runs (last 28 days)
 
 | Date | Name | km | Time | Pace | HR |
 |---|---|---|---|---|---|
+| 2026-05-25 | Morning Run | 4.36 | 32.2 min | 7.38 | 150 |
 | 2026-05-22 | Evening Run | 6.45 | 48.7 min | 7.56 | 147 |
 | 2026-05-21 | Easy run | 6.27 | 47.9 min | 7.64 | 146 |
 | 2026-05-18 | Evening Run | 4.5 | 34.6 min | 7.69 | 145 |
@@ -40,4 +42,4 @@
 | Thu | Easy run + strides | 3.6 | easy + 4×20s strides | leg turnover |
 | Sun | Long easy | 4.8 | conversational pace | time on feet |
 
-_Updated: 2026-05-25T04:07:04Z_
+_Updated: 2026-05-26T04:11:29Z_

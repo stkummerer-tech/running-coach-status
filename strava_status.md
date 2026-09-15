@@ -1,45 +1,48 @@
-# Running Status — 2026-05-26
+# Running Status — 2026-09-15
 
-**Race:** Half marathon, 2027-04-15 (46 weeks to go)  
+**Race:** Half marathon, 2027-04-15 (30 weeks to go)  
 **Goal pace:** 6.00 min/km (~2:06 finish)
 
 ## Current state
 
-- **Last 7 days:** 17.08 km in 3 run(s)
-- **Last 28 days:** 29.59 km in 6 run(s)
-- **Current easy pace:** 7.29 min/km
-- **Gap to goal pace:** +1.29 min/km
+- **Last 7 days:** 11.11 km in 2 run(s)
+- **Last 28 days:** 35.28 km in 6 run(s)
+- **Current easy pace:** 7.32 min/km
+- **Gap to goal pace:** +1.32 min/km
 
 ## 8-week trend
 
 | Week starting | Runs | km | Pace | HR |
 |---|---|---|---|---|
-| 2026-05-04 | 1 | 3.0 `█░░░░░░░░░░░░░░░░░░░` | 6.48 | 157 |
-| 2026-05-11 | 1 | 5.0 `███░░░░░░░░░░░░░░░░░` | 7.00 | 154 |
-| 2026-05-18 | 3 | 17.2 `███████████░░░░░░░░░` | 7.63 | 146 |
-| 2026-05-25 | 1 | 4.4 `██░░░░░░░░░░░░░░░░░░` | 7.38 | 150 |
+| 2026-07-20 | 2 | 12.9 `████████░░░░░░░░░░░░` | 7.63 | 149 |
+| 2026-07-27 | 1 | 5.2 `███░░░░░░░░░░░░░░░░░` | 8.18 | 142 |
+| 2026-08-03 | 1 | 5.1 `███░░░░░░░░░░░░░░░░░` | 7.90 | — |
+| 2026-08-17 | 2 | 10.5 `██████░░░░░░░░░░░░░░` | 7.45 | 147 |
+| 2026-08-31 | 1 | 8.0 `█████░░░░░░░░░░░░░░░` | 7.24 | — |
+| 2026-09-07 | 2 | 11.0 `███████░░░░░░░░░░░░░` | 6.80 | 158 |
+| 2026-09-14 | 1 | 5.8 `███░░░░░░░░░░░░░░░░░` | 7.55 | 149 |
 
 ## Recent runs (last 28 days)
 
 | Date | Name | km | Time | Pace | HR |
 |---|---|---|---|---|---|
-| 2026-05-25 | Morning Run | 4.36 | 32.2 min | 7.38 | 150 |
-| 2026-05-22 | Evening Run | 6.45 | 48.7 min | 7.56 | 147 |
-| 2026-05-21 | Easy run | 6.27 | 47.9 min | 7.64 | 146 |
-| 2026-05-18 | Evening Run | 4.5 | 34.6 min | 7.69 | 145 |
-| 2026-05-16 | Evening Run | 5.04 | 35.3 min | 7.00 | 154 |
-| 2026-05-06 | Evening Run | 2.98 | 19.3 min | 6.48 | 157 |
+| 2026-09-15 | Lauf am Morgen | 5.75 | 43.4 min | 7.55 | 149 |
+| 2026-09-10 | Nachtlauf | 5.36 | 36.5 min | 6.81 | 150 |
+| 2026-09-07 | Intervals | 5.67 | 38.4 min | 6.78 | 165 |
+| 2026-09-05 | Pram + Rain | 8.02 | 58.1 min | 7.24 | — |
+| 2026-08-23 | Mittagslauf | 7.41 | 55.1 min | 7.44 | 150 |
+| 2026-08-21 | Nachtlauf | 3.07 | 22.9 min | 7.46 | 144 |
 
 ## This week's plan
 
-**Phase:** Re-entry (week 2 of 48)  
-**Target volume:** 12.0 km  
-**Focus:** Re-build consistency. 2-3 easy runs, HR-controlled (< 150). Walk breaks ok.
+**Phase:** Base (week 18 of 48)  
+**Target volume:** 20.0 km  
+**Focus:** Aerobic base. All easy pace by feel. Add fartleks month 2 (6×1min surges).
 
 | Day | Type | km | Target | Intent |
 |---|---|---|---|---|
-| Tue | Easy run | 3.6 | by feel, HR < 150 | consistency |
-| Thu | Easy run + strides | 3.6 | easy + 4×20s strides | leg turnover |
-| Sun | Long easy | 4.8 | conversational pace | time on feet |
+| Tue | Easy + fartlek | 6.0 | easy w/ 6×1min surges | speed exposure |
+| Thu | Easy run | 6.0 | easy | aerobic |
+| Sun | Long easy | 8.0 | conversational | endurance |
 
-_Updated: 2026-05-26T04:11:29Z_
+_Updated: 2026-09-15T22:06:28Z_

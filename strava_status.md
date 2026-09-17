@@ -45,4 +45,4 @@
 | Thu | Easy run | 6.0 | easy | aerobic |
 | Sun | Long easy | 8.0 | conversational | endurance |
 
-_Updated: 2026-09-17T12:57:58Z_
+_Updated: 2026-09-17T13:00:10Z_

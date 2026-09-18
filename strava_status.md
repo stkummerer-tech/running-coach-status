@@ -1,11 +1,11 @@
-# Running Status — 2026-09-17
+# Running Status — 2026-09-18
 
-**Race:** Half marathon, 2027-04-15 (30 weeks to go)  
+**Race:** Half marathon, 2027-04-15 (29 weeks to go)  
 **Goal pace:** 6.00 min/km (~2:06 finish)
 
 ## Current state
 
-- **Last 7 days:** 11.11 km in 2 run(s)
+- **Last 7 days:** 5.75 km in 1 run(s)
 - **Last 28 days:** 35.28 km in 6 run(s)
 - **Current easy pace:** 7.32 min/km
 - **Gap to goal pace:** +1.32 min/km
@@ -35,7 +35,7 @@
 
 ## This week's plan
 
-**Phase:** Base (week 18 of 48)  
+**Phase:** Base (week 19 of 48)  
 **Target volume:** 20.0 km  
 **Focus:** Aerobic base. All easy pace by feel. Add fartleks month 2 (6×1min surges).
 
@@ -45,4 +45,4 @@
 | Thu | Easy run | 6.0 | easy | aerobic |
 | Sun | Long easy | 8.0 | conversational | endurance |
 
-_Updated: 2026-09-17T13:00:10Z_
+_Updated: 2026-09-18T04:06:49Z_

@@ -1,4 +1,4 @@
-# Running Status — 2026-09-19
+# Running Status — 2026-09-21
 
 **Race:** Half marathon, 2027-04-15 (29 weeks to go)  
 **Goal pace:** 6.00 min/km (~2:06 finish)
@@ -6,15 +6,14 @@
 ## Current state
 
 - **Last 7 days:** 8.78 km in 2 run(s)
-- **Last 28 days:** 35.24 km in 6 run(s)
-- **Current easy pace:** 7.27 min/km
-- **Gap to goal pace:** +1.27 min/km
+- **Last 28 days:** 27.82 km in 5 run(s)
+- **Current easy pace:** 7.18 min/km
+- **Gap to goal pace:** +1.18 min/km
 
 ## 8-week trend
 
 | Week starting | Runs | km | Pace | HR |
 |---|---|---|---|---|
-| 2026-07-20 | 1 | 8.3 `█████░░░░░░░░░░░░░░░` | 7.69 | 151 |
 | 2026-07-27 | 1 | 5.2 `███░░░░░░░░░░░░░░░░░` | 8.18 | 142 |
 | 2026-08-03 | 1 | 5.1 `███░░░░░░░░░░░░░░░░░` | 7.90 | — |
 | 2026-08-17 | 2 | 10.5 `██████░░░░░░░░░░░░░░` | 7.45 | 147 |
@@ -31,7 +30,6 @@
 | 2026-09-10 | Nachtlauf | 5.36 | 36.5 min | 6.81 | 150 |
 | 2026-09-07 | Intervals | 5.67 | 38.4 min | 6.78 | 165 |
 | 2026-09-05 | Pram + Rain | 8.02 | 58.1 min | 7.24 | — |
-| 2026-08-23 | Mittagslauf | 7.41 | 55.1 min | 7.44 | 150 |
 
 ## This week's plan
 
@@ -45,4 +43,4 @@
 | Thu | Easy run | 6.0 | easy | aerobic |
 | Sun | Long easy | 8.0 | conversational | endurance |
 
-_Updated: 2026-09-19T04:13:57Z_
+_Updated: 2026-09-21T15:51:07Z_

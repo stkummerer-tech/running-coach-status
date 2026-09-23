@@ -1,11 +1,11 @@
-# Running Status — 2026-09-22
+# Running Status — 2026-09-23
 
 **Race:** Half marathon, 2027-04-15 (29 weeks to go)  
 **Goal pace:** 6.00 min/km (~2:06 finish)
 
 ## Current state
 
-- **Last 7 days:** 8.78 km in 2 run(s)
+- **Last 7 days:** 3.03 km in 1 run(s)
 - **Last 28 days:** 27.82 km in 5 run(s)
 - **Current easy pace:** 7.18 min/km
 - **Gap to goal pace:** +1.18 min/km
@@ -14,7 +14,6 @@
 
 | Week starting | Runs | km | Pace | HR |
 |---|---|---|---|---|
-| 2026-07-27 | 1 | 5.2 `███░░░░░░░░░░░░░░░░░` | 8.18 | 142 |
 | 2026-08-03 | 1 | 5.1 `███░░░░░░░░░░░░░░░░░` | 7.90 | — |
 | 2026-08-17 | 2 | 10.5 `██████░░░░░░░░░░░░░░` | 7.45 | 147 |
 | 2026-08-31 | 1 | 8.0 `█████░░░░░░░░░░░░░░░` | 7.24 | — |
@@ -43,4 +42,4 @@
 | Thu | Easy run | 6.0 | easy | aerobic |
 | Sun | Long easy | 8.0 | conversational | endurance |
 
-_Updated: 2026-09-22T04:02:36Z_
+_Updated: 2026-09-23T04:02:37Z_

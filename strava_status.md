@@ -1,4 +1,4 @@
-# Running Status — 2026-09-23
+# Running Status — 2026-09-24
 
 **Race:** Half marathon, 2027-04-15 (29 weeks to go)  
 **Goal pace:** 6.00 min/km (~2:06 finish)
@@ -42,4 +42,4 @@
 | Thu | Easy run | 6.0 | easy | aerobic |
 | Sun | Long easy | 8.0 | conversational | endurance |
 
-_Updated: 2026-09-23T04:02:37Z_
+_Updated: 2026-09-24T04:00:03Z_

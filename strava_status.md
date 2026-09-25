@@ -1,6 +1,6 @@
-# Running Status — 2026-09-24
+# Running Status — 2026-09-25
 
-**Race:** Half marathon, 2027-04-15 (29 weeks to go)  
+**Race:** Half marathon, 2027-04-15 (28 weeks to go)  
 **Goal pace:** 6.00 min/km (~2:06 finish)
 
 ## Current state
@@ -32,14 +32,14 @@
 
 ## This week's plan
 
-**Phase:** Base (week 19 of 48)  
-**Target volume:** 20.0 km  
-**Focus:** Aerobic base. All easy pace by feel. Add fartleks month 2 (6×1min surges).
+**Phase:** Aerobic dev (week 20 of 48)  
+**Target volume:** 28.0 km  
+**Focus:** Introduce 1 tempo session per week. Long run grows to 12-14 km.
 
 | Day | Type | km | Target | Intent |
 |---|---|---|---|---|
-| Tue | Easy + fartlek | 6.0 | easy w/ 6×1min surges | speed exposure |
-| Thu | Easy run | 6.0 | easy | aerobic |
-| Sun | Long easy | 8.0 | conversational | endurance |
+| Tue | Tempo | 7.0 | 20-25 min @ 6:30/km | lactate threshold |
+| Thu | Easy run | 8.4 | easy | recovery |
+| Sun | Long run | 12.6 | easy, last 2 km strong | endurance |
 
-_Updated: 2026-09-24T04:00:03Z_
+_Updated: 2026-09-25T04:07:31Z_

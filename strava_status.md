@@ -1,4 +1,4 @@
-# Running Status — 2026-10-05
+# Running Status — 2026-10-06
 
 **Race:** Half marathon, 2027-04-15 (27 weeks to go)  
 **Goal pace:** 6.00 min/km (~2:06 finish)
@@ -6,7 +6,7 @@
 ## Current state
 
 - **Last 7 days:** 0.0 km in 0 run(s)
-- **Last 28 days:** 19.81 km in 4 run(s)
+- **Last 28 days:** 14.14 km in 3 run(s)
 - **Current easy pace:** 7.18 min/km
 - **Gap to goal pace:** +1.18 min/km
 
@@ -26,7 +26,6 @@
 | 2026-09-18 | Nachtlauf | 3.03 | 22.7 min | 7.49 | — |
 | 2026-09-15 | Lauf am Morgen | 5.75 | 43.4 min | 7.55 | 149 |
 | 2026-09-10 | Nachtlauf | 5.36 | 36.5 min | 6.81 | 150 |
-| 2026-09-07 | Intervals | 5.67 | 38.4 min | 6.78 | 165 |
 
 ## This week's plan
 
@@ -44,4 +43,4 @@
 
 - No runs in the last 7 days — restart easy.
 
-_Updated: 2026-10-05T04:04:07Z_
+_Updated: 2026-10-06T04:06:51Z_

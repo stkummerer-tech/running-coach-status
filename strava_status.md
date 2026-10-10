@@ -1,4 +1,4 @@
-# Running Status — 2026-10-09
+# Running Status — 2026-10-10
 
 **Race:** Half marathon, 2027-04-15 (26 weeks to go)  
 **Goal pace:** 6.00 min/km (~2:06 finish)
@@ -43,4 +43,4 @@
 - No runs in the last 7 days — restart easy.
 - Current easy pace 7.55/km vs goal 6:00/km — gap of 1.6 min/km. Closable over the next 6–9 months with consistent volume.
 
-_Updated: 2026-10-09T06:54:48Z_
+_Updated: 2026-10-10T04:02:15Z_

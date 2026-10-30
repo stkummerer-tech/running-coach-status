@@ -1,6 +1,6 @@
-# Running Status — 2026-10-29
+# Running Status — 2026-10-30
 
-**Race:** Half marathon, 2027-04-15 (24 weeks to go)  
+**Race:** Half marathon, 2027-04-15 (23 weeks to go)  
 **Goal pace:** 6.00 min/km (~2:06 finish)
 
 ## Current state
@@ -18,7 +18,7 @@
 
 ## This week's plan
 
-**Phase:** Aerobic dev (week 24 of 48)  
+**Phase:** Aerobic dev (week 25 of 48)  
 **Target volume:** 28.0 km  
 **Focus:** Introduce 1 tempo session per week. Long run grows to 12-14 km.
 
@@ -32,4 +32,4 @@
 
 - No runs in the last 7 days — restart easy.
 
-_Updated: 2026-10-29T05:02:02Z_
+_Updated: 2026-10-30T05:00:37Z_

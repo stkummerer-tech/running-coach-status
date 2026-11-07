@@ -1,18 +1,27 @@
-# Running Status — 2026-11-06
+# Running Status — 2026-11-07
 
 **Race:** Half marathon, 2027-04-15 (22 weeks to go)  
 **Goal pace:** 6.00 min/km (~2:06 finish)
 
 ## Current state
 
-- **Last 7 days:** 0.0 km in 0 run(s)
-- **Last 28 days:** 0.0 km in 0 run(s)
+- **Last 7 days:** 3.05 km in 1 run(s)
+- **Last 28 days:** 3.05 km in 1 run(s)
+- **Current easy pace:** 7.46 min/km
+- **Gap to goal pace:** +1.46 min/km
 
 ## 8-week trend
 
 | Week starting | Runs | km | Pace | HR |
 |---|---|---|---|---|
 | 2026-09-14 | 2 | 8.8 `█████░░░░░░░░░░░░░░░` | 7.52 | 149 |
+| 2026-11-02 | 1 | 3.0 `██░░░░░░░░░░░░░░░░░░` | 7.46 | 153 |
+
+## Recent runs (last 28 days)
+
+| Date | Name | km | Time | Pace | HR |
+|---|---|---|---|---|---|
+| 2026-11-05 | Abendlauf | 3.05 | 22.8 min | 7.46 | 153 |
 
 ## This week's plan
 
@@ -28,6 +37,6 @@
 
 ## Coach notes
 
-- No runs in the last 7 days — restart easy.
+- Low volume in last 28 days (3.1 km) — still in re-entry phase, prioritize consistency over pace.
 
-_Updated: 2026-11-06T05:00:06Z_
+_Updated: 2026-11-07T05:14:08Z_
